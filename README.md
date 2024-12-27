@@ -3,7 +3,7 @@
 **HOTEL BOOKING EDA**
 
 
-Objective
+**Objective:**
 
 We are provided with a hotel bookings dataset
 
@@ -14,13 +14,13 @@ Our main objective is perform EDA on the given dataset and draw useful conclusio
 
 We are given a hotel bookings dataset. This dataset contains booking information for a City Hotel and a Resort Hotel. It contains the following features:
 
-hotel: Hotel (Resort Hotel or City Hotel)
+**hotel:** Hotel (Resort Hotel or City Hotel)
 
-is_canceled: Value indicating if the booking was canceled (1) or not (0)
+**is_canceled:** Value indicating if the booking was canceled (1) or not (0)
 
-lead_time: Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
+**lead_time:** Number of days that elapsed between the entering date of the booking into the PMS and the arrival date
 
-arrival_date_year: Year of arrival date
+**arrival_date_year:** Year of arrival date
 
 arrival_date_month: Month of arrival date
 
