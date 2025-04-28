@@ -1,4 +1,4 @@
-# Project-2
+# EDA on Hotel Booking
 
 
 **HOTEL BOOKING EDA**
