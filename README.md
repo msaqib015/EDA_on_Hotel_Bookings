@@ -1,4 +1,4 @@
-# EDA on Hotel Booking
+# EDA on Hotel Bookings
 
 
 **HOTEL BOOKING EDA**
